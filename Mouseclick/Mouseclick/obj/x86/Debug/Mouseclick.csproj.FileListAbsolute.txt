@@ -1,0 +1,10 @@
+C:\Users\Lunar\source\repos\Mouseclick\Mouseclick\obj\x86\Debug\Mouseclick.csprojAssemblyReference.cache
+C:\Users\Lunar\source\repos\Mouseclick\Mouseclick\obj\x86\Debug\Mouseclick.Form1.resources
+C:\Users\Lunar\source\repos\Mouseclick\Mouseclick\obj\x86\Debug\Mouseclick.Properties.Resources.resources
+C:\Users\Lunar\source\repos\Mouseclick\Mouseclick\obj\x86\Debug\Mouseclick.csproj.GenerateResource.cache
+C:\Users\Lunar\source\repos\Mouseclick\Mouseclick\obj\x86\Debug\Mouseclick.csproj.CoreCompileInputs.cache
+C:\Users\Lunar\source\repos\Mouseclick\Mouseclick\bin\x86\Debug\Mouseclick.exe.config
+C:\Users\Lunar\source\repos\Mouseclick\Mouseclick\bin\x86\Debug\Mouseclick.exe
+C:\Users\Lunar\source\repos\Mouseclick\Mouseclick\bin\x86\Debug\Mouseclick.pdb
+C:\Users\Lunar\source\repos\Mouseclick\Mouseclick\obj\x86\Debug\Mouseclick.exe
+C:\Users\Lunar\source\repos\Mouseclick\Mouseclick\obj\x86\Debug\Mouseclick.pdb
